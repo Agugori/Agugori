@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Agugori
-- 👀 I’m interested in frontend more than backend
+- 👀 I'm a backend developer
 - 🌱 I’m currently learning js, node, gonna Star with VueJS soon
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me aguswave@gmail.com
